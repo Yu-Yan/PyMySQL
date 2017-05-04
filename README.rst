@@ -12,8 +12,18 @@
     :target: https://github.com/PyMySQL/PyMySQL/blob/master/LICENSE
 
 
-PyMySQL
+PyMySQLPool
 =======
+
+Connetion pool support were added to the original pymysql, use
+
+    from pymysql.pool import ConnectionPool
+
+enjoy!
+
+
+
+
 
 .. contents:: Table of Contents
    :local:
