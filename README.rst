@@ -15,11 +15,14 @@
 PyMySQLPool
 =======
 
+what's new compared to pymysql?
+-------------
+
 Connetion pool support were added to the original pymysql, use
 
     from pymysql.pool import ConnectionPool
 
-to import!
+to import
 
 
 
