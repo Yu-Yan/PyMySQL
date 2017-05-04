@@ -19,7 +19,7 @@ Connetion pool support were added to the original pymysql, use
 
     from pymysql.pool import ConnectionPool
 
-enjoy!
+to import!
 
 
 
